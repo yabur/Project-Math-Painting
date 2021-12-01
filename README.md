@@ -1,1 +1,1 @@
-# App-3-Project-Math-Painting
+# Project-Math-Painting
